@@ -1,0 +1,14 @@
+.Rproj.user
+.Rbuildignore
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+.DS_Store
