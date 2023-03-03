@@ -1,6 +1,8 @@
 # demo_package
 Testing github actions on a test R package
 
+test change
+
 All commands:
 
 ## Setting up the package:
